@@ -1,5 +1,5 @@
 # A-Pandemic-of-Low-HCAHPS-Scores
-![HealthcareImage.jpg]
+![](HealthcareImage.jpg)
 The project is from Maven's Healthcare Challenge [here](https://mavenanalytics.io/challenges/maven-healthcare-challenge/26)  conducted in September 2023. The dataset was obtained in CSV format from Maven's website. If you have any comments or questions, please feel free to reach out.
 
 ## Background
@@ -25,4 +25,17 @@ The measures for the survey are:
 - H_Quiet_HSP: Quietness of the hospital environment
 - H_HSP_Rating: Overall hospital rating
 - H_RECMND: Willingness to recommend hospital
+
+## Dasboard
+![](HCAHPSDashboard.jpg)
+
+## Insights
+- As part of the Maven Healthcare Challenge, I delved deep into the Hospital Consumer Assessment of Healthcare Providers and Systems (HCAHPS) survey data, a treasure trove of insights into the patient experience. Here's what I found:
+
+- Continuous Improvement: Over the past nine years, HCAHPS scores have been on a consistent upward trajectory until 2021 when it begins to go downward. Hospitals across the nation have demonstrated a commitment to enhancing patient experiences.
+
+- Notable Progress: The journey toward better healthcare is marked by remarkable progress. Patients' satisfaction scores have seen substantial boosts, particularly in areas like Communications with Doctors/Nurses and Discharge information. This is a testament to the dedication of healthcare providers.
+
+- Untapped Potential: While progress is evident, there's still untapped potential. My analysis identifies specific areas where further enhancements can elevate the patient experience to even greater heights
+
 
