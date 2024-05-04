@@ -36,4 +36,4 @@ The measures for the survey are:
 - Untapped Potential: While progress is evident, there's still untapped potential. My analysis identifies specific areas where further enhancements can elevate the patient experience to even greater heights
 
 ## Dasboard / Recommendations 
-![HCAHPSDashboard.jpg]()
+![](https://github.com/FadilatBraimah/A-Pandemic-of-Low-HCAHPS-Scores/blob/164416d700127f5cd1733306117b138fdecb1e7f/HCAHPSDashboard.jpg)
