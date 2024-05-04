@@ -27,9 +27,9 @@ The measures for the survey are:
 - H_RECMND: Willingness to recommend hospital
 
 ## Insights
-- As part of the Maven Healthcare Challenge, I delved deep into the Hospital Consumer Assessment of Healthcare Providers and Systems (HCAHPS) survey data, a treasure trove of insights into the patient experience. Here's what I found:
+- As part of the Maven Healthcare Challenge, I analyse deep into the Hospital Consumer Assessment of Healthcare Providers and Systems (HCAHPS) survey data, a treasure trove of insights into the patient experience. Here's what I found:
 
-- Continuous Improvement: Over the past nine years, HCAHPS scores have been on a consistent upward trajectory until 2021 when it begins to go downward. Hospitals across the nation have demonstrated a commitment to enhancing patient experiences.
+- Continuous Improvement: Over the past nine years, HCAHPS scores have been on a consistent upward move until 2021 when it begins to go downward. Hospitals across the nation have demonstrated a commitment to enhancing patient experiences.
 
 - Notable Progress: The journey toward better healthcare is marked by remarkable progress. Patients' satisfaction scores have seen substantial boosts, particularly in areas like Communications with Doctors/Nurses and Discharge information. This is a testament to the dedication of healthcare providers.
 
