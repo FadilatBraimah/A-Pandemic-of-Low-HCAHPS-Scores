@@ -1,5 +1,5 @@
 # A Pandemic of Low HCAHPS Scores: Maven Healthcare Challenge
-![](Healthcare.jpg)
+![](https://github.com/FadilatBraimah/A-Pandemic-of-Low-HCAHPS-Scores/blob/75de9f1721afcc1462d65a8c8c2e349eb819d72e/Healthcare.jpeg)
 The project is from Maven's Healthcare Challenge [here](https://mavenanalytics.io/challenges/maven-healthcare-challenge/26) conducted in September 2023. The dataset was obtained in CSV format from Maven's website. If you have any comments or questions, please feel free to reach out.
 
 ## Background
